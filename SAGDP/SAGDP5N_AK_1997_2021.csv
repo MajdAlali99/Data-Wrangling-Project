@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "02000","Alaska",8,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-62914,-54659,-56361,-57509,-112265,-72874,-103256,-91893,-104304,-101594,-97698,-91955,-116169,-119053,-136253,-130721,-124560,-134905,-129214,-130384,-107703,-112034,-111096,-1445826,-1208159
+ "02000","Alaska",8,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-29492,-28943,-30074,-29805,-82223,-35811,-63557,-50154,-57796,-52149,-45358,-41299,-57231,-55541,-73061,-74371,-69030,-63219,-61156,-65894,-54105,-57320,-57825,-1352163,-1116522
+ "02000","Alaska",8,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-1264,-1194,-1525,-1437,-1936,-1587,-1733,-4881,-4472,-2890,-3634,-4237,-4952,-8145,-9565,-10178,-9896,-7674,-8949,-11498,-5460,-10494,-11096,-45107,-86122
+ "02000","Alaska",8,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-1264,-1194,-1525,-1437,-1936,-1587,-1733,-4881,-4472,-2890,-3634,-4237,-4952,-8145,-9565,-10178,-9896,-7674,-8949,-11498,-5460,-10494,-11096,-11876,-17832
+ "02000","Alaska",8,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33231,-68290
+ "02000","Alaska",8,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21956,-11384
+ "02000","Alaska",8,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1174,-8
+ "02000","Alaska",8,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5823,-3473
+ "02000","Alaska",8,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14959,-7902
+ "02000","Alaska",8,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14757,-2620
+ "02000","Alaska",8,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-186809,-133567
+ "02000","Alaska",8,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-2,-1,-10,-132,-394,-132,-344,-121,-592,-17,-15,-12,-12,-8,-44024,-32572
+ "02000","Alaska",8,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9,-27,-54,-45,-26,-18,-10,-8,-7,-5,-4,-4,-17055,-19737
+ "02000","Alaska",8,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-186,-929
+ "02000","Alaska",8,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47,-193
+ "02000","Alaska",8,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-222,-2
+ "02000","Alaska",8,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3417,-2679
+ "02000","Alaska",8,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4367,-5027
+ "02000","Alaska",8,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1447,-2011
+ "02000","Alaska",8,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9,-27,-54,-45,-26,-18,-10,-8,-7,-5,-4,-4,-116,-313
+ "02000","Alaska",8,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11,-60
+ "02000","Alaska",8,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2378,-3756
+ "02000","Alaska",8,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-378,-776
+ "02000","Alaska",8,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4485,-3992
+ "02000","Alaska",8,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-2,-1,-1,-105,-340,-87,-317,-104,-583,-9,-8,-8,-8,-4,-26969,-12835
+ "02000","Alaska",8,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22144,-10699
+ "02000","Alaska",8,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-2,-1,-1,-2,-1,-1,-1,-1,-2,-9,-8,-7,-7,-3,-2452,-233
+ "02000","Alaska",8,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-148,-675
+ "02000","Alaska",8,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119,-23
+ "02000","Alaska",8,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1718,-974
+ "02000","Alaska",8,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-103,-339,-81,-315,-101,-581,0,0,0,0,0,-344,-106
+ "02000","Alaska",8,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-1,-1,-1,0,0,0,0,0,-39,-71
+ "02000","Alaska",8,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,-54
+ "02000","Alaska",8,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29227,-14549
+ "02000","Alaska",8,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-7644,-815,-8,0,0,0,0,0,0,0,0,-90815,-46836
+ "02000","Alaska",8,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-1067,-389,-213,-551,-52990,-5765,-29267,-10455,-6595,-9341,-7126,-4831,-7155,-4589,-5234,-9319,-4349,-3370,-3094,-3706,-1851,-1142,-1197,-135599,-127720
+ "02000","Alaska",8,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-203,10,0,-10,-51156,-1628,-25588,-173,-621,-946,-956,-1435,-1740,-2086,-2401,-2635,-2381,-2228,-2442,-1187,-983,-722,-895,-81342,-89003
+ "02000","Alaska",8,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "02000","Alaska",8,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-863,-399,-213,-541,-1834,-4138,-3672,-10233,-5926,-8263,-6135,-3360,-5397,-2504,-2833,-6683,-1968,-1142,-652,-2519,-868,-420,-301,-5398,-11630
+ "02000","Alaska",8,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-7,-49,-48,-132,-35,-37,-18,0,0,0,0,0,0,0,0,0,0,-12684,-3778
+ "02000","Alaska",8,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1621,-6858
+ "02000","Alaska",8,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49,-1
+ "02000","Alaska",8,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27863,-11443
+ "02000","Alaska",8,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6641,-5007
+ "02000","Alaska",8,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-150,-424,-1944,-2817,-1475,-357,-377,19,-39,-17,-20,-21596,-13220
+ "02000","Alaska",8,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5387,-2523
+ "02000","Alaska",8,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-240,-1370
+ "02000","Alaska",8,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-150,-424,-1944,-2817,-1475,-357,-377,19,-39,-17,-20,-14285,-8934
+ "02000","Alaska",8,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1684,-394
+ "02000","Alaska",8,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-27161,-27361,-28336,-27817,-27297,-28458,-32556,-34818,-46729,-39916,-34597,-32221,-37197,-39599,-43032,-43987,-43658,-42641,-43661,-47728,-45665,-45620,-45469,-106839,-88444
+ "02000","Alaska",8,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-84,-91,-151,-135,-153,-167,-70,-54,-79,-49,-82,-259,-408,-847,-906,-1111,-783,-1046,-648,-741,-724,-661,-536,-10941,-4351
+ "02000","Alaska",8,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-84,-91,-151,-135,-153,-167,-70,-54,-79,-49,-82,-259,-408,-847,-906,-1111,-783,-1046,-648,-741,-724,-661,-536,-1512,-2048
+ "02000","Alaska",8,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3658,-717
+ "02000","Alaska",8,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5611,-1553
+ "02000","Alaska",8,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-160,-33
+ "02000","Alaska",8,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-27078,-27270,-28186,-27682,-27144,-28290,-32487,-34763,-46650,-39867,-34515,-31962,-36790,-38752,-42126,-42876,-42875,-41595,-43013,-46987,-44941,-44959,-44933,-95897,-84093
+ "02000","Alaska",8,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-27078,-27270,-28186,-27682,-27144,-28290,-32487,-34763,-46650,-39867,-34515,-31962,-36790,-38752,-42126,-42876,-42875,-41595,-43013,-46987,-44941,-44959,-44933,-79681,-72962
+ "02000","Alaska",8,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16217,-11131
+ "02000","Alaska",8,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-220518,-104379
+ "02000","Alaska",8,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-124688,-63532
+ "02000","Alaska",8,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8997,-5555
+ "02000","Alaska",8,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18033,-6297
+ "02000","Alaska",8,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-97658,-51681
+ "02000","Alaska",8,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27884,-9803
+ "02000","Alaska",8,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67946,-31043
+ "02000","Alaska",8,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54363,-28393
+ "02000","Alaska",8,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13583,-2650
+ "02000","Alaska",8,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1574,-13146,-7727,-9531,-8585,-5057,-2966,-1076,-35,-35,-247984,-196160
+ "02000","Alaska",8,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9340,-18651
+ "02000","Alaska",8,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1574,-13146,-7727,-9531,-8585,-5057,-2966,-1076,-35,-35,-238644,-177509
+ "02000","Alaska",8,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-189925,-144501
+ "02000","Alaska",8,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1574,-13146,-7727,-9531,-8585,-5057,-2966,-1076,-35,-35,-28235,-5075
+ "02000","Alaska",8,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8953,-2675
+ "02000","Alaska",8,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11531,-25258
+ "02000","Alaska",8,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136796,-226992
+ "02000","Alaska",8,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21914,-26568
+ "02000","Alaska",8,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2303,-9753
+ "02000","Alaska",8,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19611,-16816
+ "02000","Alaska",8,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-114883,-200424
+ "02000","Alaska",8,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27746,-43807
+ "02000","Alaska",8,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87137,-156617
+ "02000","Alaska",8,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50137,-31958
+ "02000","Alaska",8,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-33422,-25715,-26287,-27704,-30042,-37064,-39699,-41739,-46508,-49445,-52340,-50656,-58938,-63512,-63192,-56350,-55530,-71686,-68058,-64490,-53599,-54714,-53271,-93663,-91637
+ "02000","Alaska",8,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-22,-31,-24,-20,-49,-47,-46,-47,-45,-31,-27,-31,-40,-31,-45,-53,-73,-86,-67,-62,-57,-65,-77,-74,-96
+ "02000","Alaska",8,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "02000","Alaska",8,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-33400,-25685,-26263,-27684,-29992,-37016,-39653,-41692,-46463,-49414,-52314,-50625,-58898,-63481,-63147,-56297,-55457,-71600,-67991,-64428,-53542,-54649,-53194,-93589,-91541
+ "02000","Alaska",8,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-1264,-1194,-1525,-1437,-1936,-1587,-1733,-4881,-4472,-2890,-3634,-4237,-4952,-8145,-9565,-10178,-9896,-7674,-8949,-11498,-5460,-10494,-11096,-67063,-97506
+ "02000","Alaska",8,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-7644,-815,-8,0,0,0,0,0,0,0,0,-120042,-61385
+ "02000","Alaska",8,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-1067,-389,-213,-551,-52990,-5765,-29267,-10455,-6595,-9341,-7126,-4831,-7155,-4589,-5234,-9319,-4349,-3370,-3094,-3706,-1851,-1142,-1197,-150355,-130339
+ "02000","Alaska",8,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-2,-1,-10,-282,-818,-2076,-3160,-1596,-950,-394,4,-51,-29,-28,-65619,-45792
+ "02000","Alaska",8,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-1264,-1194,-1525,-1437,-1936,-1587,-1733,-4881,-4472,-2892,-3635,-4247,-5085,-8539,-9697,-10521,-10017,-8266,-8966,-11513,-5473,-10506,-11104,-297895,-263645
+ "02000","Alaska",8,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-28228,-27749,-28549,-28368,-80287,-34223,-61824,-45273,-53325,-49257,-41723,-37052,-52146,-47002,-63364,-63849,-59013,-54953,-52190,-54381,-48632,-46814,-46721,-1054268,-852877
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

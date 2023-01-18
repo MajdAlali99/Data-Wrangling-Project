@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "18000","Indiana",3,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-516692,-697443,-1067061,-1152911,-1256423,-708000,-883647,-987225,-1410341,-1052839,-824356,-846614,-965901,-929255,-1094001,-1066923,-1127755,-872188,-894519,-1254127,-1035735,-1197486,-1561210,-10495151,-7728908
+ "18000","Indiana",3,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-411899,-596445,-961840,-1030817,-1098063,-521773,-674225,-745742,-1152630,-779336,-544416,-519998,-604853,-634346,-685619,-668923,-663015,-460454,-522171,-869987,-655193,-782994,-1143472,-9929766,-7108111
+ "18000","Indiana",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-224867,-398844,-735763,-807866,-824972,-289836,-382640,-454009,-786897,-462440,-269892,-272040,-258961,-316105,-254455,-265989,-267129,-81650,-174804,-518858,-306698,-445564,-801216,-1280078,-652836
+ "18000","Indiana",3,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-224867,-398844,-735763,-807866,-824972,-289836,-382640,-454009,-786897,-462440,-269892,-272040,-258961,-316105,-254455,-265989,-267129,-81650,-174804,-518858,-306698,-445564,-801216,-1272996,-643601
+ "18000","Indiana",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7082,-9235
+ "18000","Indiana",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54820,-37224
+ "18000","Indiana",3,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16264,-12868
+ "18000","Indiana",3,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33263,-5862
+ "18000","Indiana",3,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5293,-18494
+ "18000","Indiana",3,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9607,-5532
+ "18000","Indiana",3,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1014194,-568492
+ "18000","Indiana",3,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-36,-2810,-8130,-22342,-33071,-24312,-11190,-13471,-5627,-5509,-5394,-4815,-5715,-1462883,-888183
+ "18000","Indiana",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2764,-6202,-17324,-21419,-13095,-6149,-3942,-4292,-4237,-4529,-3695,-5026,-1055386,-667833
+ "18000","Indiana",3,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82451,-43430
+ "18000","Indiana",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31355,-15766
+ "18000","Indiana",3,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85278,-31178
+ "18000","Indiana",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-271183,-196925
+ "18000","Indiana",3,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-125422,-90347
+ "18000","Indiana",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21507,-22604
+ "18000","Indiana",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2764,-6202,-17324,-21419,-13095,-6149,-3942,-4292,-4237,-4529,-3695,-5026,-53593,-26528
+ "18000","Indiana",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-157885,-100309
+ "18000","Indiana",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47976,-38481
+ "18000","Indiana",3,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-92822,-51799
+ "18000","Indiana",3,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85914,-50464
+ "18000","Indiana",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-36,-46,-1928,-5018,-11652,-11218,-5041,-9529,-1335,-1272,-864,-1120,-689,-407497,-220351
+ "18000","Indiana",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101484,-44915
+ "18000","Indiana",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-36,-46,-55,-52,-54,-55,-54,-61,-362,-330,-355,-389,-294,-11374,-6638
+ "18000","Indiana",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6437,-18091
+ "18000","Indiana",3,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6832,-2853
+ "18000","Indiana",3,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18431,-17925
+ "18000","Indiana",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-626,-3663,-1892,-8246,-926,-5375,0,0,0,0,0,-15080,-11827
+ "18000","Indiana",3,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1247,-1302,-9706,-2917,-4061,-4093,-973,-942,-509,-731,-395,-84538,-52287
+ "18000","Indiana",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163322,-65814
+ "18000","Indiana",3,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-449723,-232554
+ "18000","Indiana",3,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-56177,-6062,-58,0,0,0,0,0,0,0,0,-687463,-431380
+ "18000","Indiana",3,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-5603,-3545,-3314,-4492,-53709,-15392,-32956,-19977,-13573,-20713,-15926,-11932,-15945,-12981,-12595,-15848,-9724,-8100,-7898,-8372,-7659,-7748,-6242,-465420,-334333
+ "18000","Indiana",3,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-183,9,0,-9,-46054,-1466,-23036,-156,-559,-852,-861,-1291,-1566,-1878,-2162,-2372,-2143,-2006,-2198,-700,-1028,-1058,-1337,-126922,-134650
+ "18000","Indiana",3,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",-2697,-2262,-2663,-3031,-2471,-2804,-2266,-3234,-3526,-3845,-3042,-4177,-5634,-7072,-5545,-5262,-5408,-5103,-5108,-4998,-5891,-6404,-4699,-17932,-23911
+ "18000","Indiana",3,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-2723,-1293,-652,-1452,-5185,-11123,-7534,-15765,-8694,-13863,-11463,-5862,-8491,-4031,-4888,-8214,-2172,-991,-593,-2674,-740,-285,-207,-1275,-7941
+ "18000","Indiana",3,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-120,-822,-794,-2152,-560,-602,-254,0,0,0,0,0,0,0,0,0,0,-220841,-95381
+ "18000","Indiana",3,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12255,-28070
+ "18000","Indiana",3,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58,-58
+ "18000","Indiana",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64511,-32864
+ "18000","Indiana",3,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21626,-11459
+ "18000","Indiana",3,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-472,-1316,-5517,-7940,-4234,-990,-951,50,-107,-47,-56,-101364,-61857
+ "18000","Indiana",3,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40178,-26070
+ "18000","Indiana",3,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5540,-7709
+ "18000","Indiana",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-472,-1316,-5517,-7940,-4234,-990,-951,50,-107,-47,-56,-46959,-20343
+ "18000","Indiana",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8687,-7735
+ "18000","Indiana",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-181429,-194055,-222763,-218459,-219382,-216544,-258629,-271756,-352160,-296102,-258561,-233215,-265169,-263087,-278358,-293336,-297965,-291920,-295262,-314912,-327122,-324557,-329977,-857592,-648597
+ "18000","Indiana",3,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-661,-822,-1269,-1016,-1547,-1772,-920,-714,-681,-346,-590,-846,-1590,-4023,-5122,-7530,-5952,-7591,-5093,-5784,-5844,-5415,-4582,-184966,-66441
+ "18000","Indiana",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-661,-822,-1269,-1016,-1547,-1772,-920,-714,-681,-346,-590,-846,-1590,-4023,-5122,-7530,-5952,-7591,-5093,-5784,-5844,-5415,-4582,-35316,-21210
+ "18000","Indiana",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28815,-9660
+ "18000","Indiana",3,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-115817,-34197
+ "18000","Indiana",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5018,-1374
+ "18000","Indiana",3,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-180768,-193233,-221495,-217443,-217835,-214773,-257709,-271042,-351479,-295756,-257972,-232369,-263579,-259064,-273236,-285806,-292013,-284328,-290169,-309128,-321277,-319142,-325395,-672626,-582157
+ "18000","Indiana",3,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-180768,-193233,-221495,-217443,-217835,-214773,-257709,-271042,-351479,-295756,-257972,-232369,-263579,-259064,-273236,-285806,-292013,-284328,-290169,-309128,-321277,-319142,-325395,-635260,-559880
+ "18000","Indiana",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37366,-22277
+ "18000","Indiana",3,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1182839,-579662
+ "18000","Indiana",3,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-709974,-396102
+ "18000","Indiana",3,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-95346,-73370
+ "18000","Indiana",3,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116011,-56379
+ "18000","Indiana",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-498617,-266353
+ "18000","Indiana",3,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46562,-13585
+ "18000","Indiana",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-426303,-169975
+ "18000","Indiana",3,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-351122,-152400
+ "18000","Indiana",3,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75181,-17576
+ "18000","Indiana",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12453,-101565,-61497,-72772,-64323,-37629,-22386,-8214,-263,-265,-1496356,-1000783
+ "18000","Indiana",3,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55094,-50414
+ "18000","Indiana",3,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12453,-101565,-61497,-72772,-64323,-37629,-22386,-8214,-263,-265,-1441262,-950369
+ "18000","Indiana",3,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-957893,-542982
+ "18000","Indiana",3,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12453,-101565,-61497,-72772,-64323,-37629,-22386,-8214,-263,-265,-268974,-189650
+ "18000","Indiana",3,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-121234,-46947
+ "18000","Indiana",3,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93161,-170789
+ "18000","Indiana",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-579593,-1331254
+ "18000","Indiana",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65592,-224846
+ "18000","Indiana",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29449,-181768
+ "18000","Indiana",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36143,-43078
+ "18000","Indiana",3,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-514001,-1106408
+ "18000","Indiana",3,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-70640,-133722
+ "18000","Indiana",3,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-443361,-972686
+ "18000","Indiana",3,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-287835,-335424
+ "18000","Indiana",3,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-104793,-100998,-105221,-122094,-158360,-186227,-209422,-241483,-257711,-273504,-279940,-326616,-361048,-294909,-408381,-397999,-464740,-411734,-372348,-384140,-380543,-414492,-417738,-565386,-620796
+ "18000","Indiana",3,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-16764,-18046,-17537,-23182,-50491,-52515,-57634,-73560,-85929,-92625,-127808,-176945,-183243,-117928,-173569,-180472,-251144,-241138,-203529,-195375,-213279,-201997,-207426,-221879,-286888
+ "18000","Indiana",3,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "18000","Indiana",3,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-88029,-82952,-87684,-98912,-107869,-133712,-151788,-167923,-171782,-180878,-152132,-149671,-177805,-176981,-234812,-217528,-213596,-170596,-168819,-188765,-167263,-212495,-210313,-343506,-333908
+ "18000","Indiana",3,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-224867,-398844,-735763,-807866,-824972,-289836,-382640,-454009,-786897,-462440,-269892,-272040,-258961,-316105,-254455,-265989,-267129,-81650,-174804,-518858,-306698,-445564,-801216,-1334898,-690060
+ "18000","Indiana",3,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-56177,-6062,-58,0,0,0,0,0,0,0,0,-1137186,-663934
+ "18000","Indiana",3,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-5603,-3545,-3314,-4492,-53709,-15392,-32956,-19977,-13573,-20713,-15926,-11932,-15945,-12981,-12595,-15848,-9724,-8100,-7898,-8372,-7659,-7748,-6242,-475027,-339865
+ "18000","Indiana",3,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-36,-2810,-8602,-23658,-38588,-32253,-15424,-14461,-6578,-5459,-5501,-4862,-5771,-1564247,-950041
+ "18000","Indiana",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-224867,-398844,-735763,-807866,-824972,-289836,-382640,-454009,-786897,-462522,-269928,-274850,-267091,-338447,-287526,-290302,-278320,-95121,-180431,-524367,-312091,-450379,-806931,-3811975,-2146735
+ "18000","Indiana",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-187032,-197601,-226078,-222951,-273091,-231937,-291585,-291733,-365733,-316814,-274487,-245147,-337762,-295899,-398093,-378621,-384695,-365333,-341740,-345621,-343102,-332615,-336541,-6117791,-4961376
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

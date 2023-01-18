@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "32000","Nevada",8,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-156145,-156578,-164319,-164496,-304196,-212309,-296475,-250561,-302790,-261245,-267244,-284735,-324593,-273041,-304607,-274300,-279919,-341502,-344977,-349136,-330145,-350355,-387005,-5342308,-5450922
+ "32000","Nevada",8,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-100968,-107297,-111241,-111044,-238746,-125361,-206593,-158565,-218719,-194511,-185323,-190517,-219490,-186834,-206885,-196129,-199483,-231297,-230960,-232484,-224060,-225492,-238366,-5089232,-5188908
+ "32000","Nevada",8,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-1809,-2275,-2311,-3368,-5225,-9785,-10229,-5573,-10052,-7364,-9188,-11195,-9501,-8274,-8776,-10605,-7732,-32994,-28990,-18080,-7628,-12659,-13965,-89340,-47268
+ "32000","Nevada",8,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-1809,-2275,-2311,-3368,-5225,-9785,-10229,-5573,-10052,-7364,-9188,-11195,-9501,-8274,-8776,-10605,-7732,-32994,-28990,-18080,-7628,-12659,-13965,-85692,-45676
+ "32000","Nevada",8,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3648,-1592
+ "32000","Nevada",8,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13758,-6903
+ "32000","Nevada",8,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59,-374
+ "32000","Nevada",8,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10710,-4996
+ "32000","Nevada",8,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2988,-1534
+ "32000","Nevada",8,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1917,-1582
+ "32000","Nevada",8,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-684296,-465922
+ "32000","Nevada",8,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-18,-11,-175,-441,-988,-1757,-1043,-1268,-1036,-1046,-882,-2063,-4107,-5333,-223926,-194985
+ "32000","Nevada",8,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-162,-402,-900,-1608,-870,-1195,-870,-946,-772,-1960,-4015,-5233,-152330,-123504
+ "32000","Nevada",8,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4406,-3964
+ "32000","Nevada",8,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12431,-7589
+ "32000","Nevada",8,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-375,-491
+ "32000","Nevada",8,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45423,-30219
+ "32000","Nevada",8,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16115,-9910
+ "32000","Nevada",8,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19421,-8561
+ "32000","Nevada",8,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-162,-402,-900,-1608,-870,-1195,-870,-946,-772,-1960,-4015,-5233,-13927,-12394
+ "32000","Nevada",8,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3913,-4364
+ "32000","Nevada",8,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2512,-3441
+ "32000","Nevada",8,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9347,-20748
+ "32000","Nevada",8,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24460,-21822
+ "32000","Nevada",8,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-18,-11,-13,-38,-87,-148,-173,-74,-166,-100,-110,-104,-92,-101,-71596,-71481
+ "32000","Nevada",8,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21991,-20237
+ "32000","Nevada",8,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-18,-11,-13,-14,-10,-10,-11,-11,-14,-87,-94,-86,-76,-89,-1632,-1465
+ "32000","Nevada",8,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3198,-6547
+ "32000","Nevada",8,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5292,-89
+ "32000","Nevada",8,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22386,-28277
+ "32000","Nevada",8,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-12,-65,-22,-127,-18,-106,0,0,0,0,0,-1010,-1265
+ "32000","Nevada",8,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-12,-12,-117,-36,-44,-47,-14,-17,-18,-16,-11,-8850,-8966
+ "32000","Nevada",8,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7238,-4636
+ "32000","Nevada",8,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153393,-96136
+ "32000","Nevada",8,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-25051,-2656,-26,0,0,0,0,0,0,0,0,-361960,-208973
+ "32000","Nevada",8,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-1768,-1625,-2024,-1920,-130910,-6701,-66847,-3365,-4375,-5376,-4349,-5818,-7290,-9109,-8955,-9537,-8810,-8210,-8812,-10293,-9966,-9828,-10679,-715701,-914420
+ "32000","Nevada",8,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-512,26,0,-26,-128704,-4096,-64378,-435,-1561,-2381,-2406,-3609,-4377,-5247,-6041,-6630,-5990,-5606,-6143,-7231,-6463,-5715,-7151,-571732,-785067
+ "32000","Nevada",8,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",-1250,-1643,-2019,-1884,-2171,-2530,-2378,-2596,-2614,-2567,-1757,-2096,-2815,-3604,-2656,-2526,-2732,-2569,-2652,-3015,-3490,-4104,-3526,-19186,-16313
+ "32000","Nevada",8,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-5,-8,-4,-10,-35,-75,-77,-234,-100,-153,-116,-41,-68,-258,-257,-381,-88,-35,-17,-47,-13,-9,-2,-15,-146
+ "32000","Nevada",8,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-14,-100,-100,-276,-70,-73,-30,0,0,0,0,0,0,0,0,0,0,-47223,-30212
+ "32000","Nevada",8,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26104,-58227
+ "32000","Nevada",8,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57,-60
+ "32000","Nevada",8,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37917,-19408
+ "32000","Nevada",8,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13466,-4988
+ "32000","Nevada",8,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-188,-524,-2247,-3235,-1599,-386,-396,21,-48,-22,-27,-69361,-58684
+ "32000","Nevada",8,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12510,-15493
+ "32000","Nevada",8,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9139,-17872
+ "32000","Nevada",8,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-188,-524,-2247,-3235,-1599,-386,-396,21,-48,-22,-27,-22852,-16010
+ "32000","Nevada",8,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24861,-9308
+ "32000","Nevada",8,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-97392,-103397,-106906,-105756,-102611,-108875,-129516,-149627,-204292,-181752,-171775,-173329,-177020,-161898,-157790,-155952,-160538,-169884,-180398,-196411,-201964,-198796,-208282,-500539,-426258
+ "32000","Nevada",8,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-385,-528,-1077,-1307,-1636,-1897,-808,-855,-1453,-1293,-154,-593,-124,-2097,-3450,-2877,-9580,-14941,-8964,-10673,-4179,-2801,-1183,-96037,-40600
+ "32000","Nevada",8,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-385,-528,-1077,-1307,-1636,-1897,-808,-855,-1453,-1293,-154,-593,-124,-2097,-3450,-2877,-9580,-14941,-8964,-10673,-4179,-2801,-1183,-40060,-21435
+ "32000","Nevada",8,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22267,-4741
+ "32000","Nevada",8,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30375,-13288
+ "32000","Nevada",8,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3335,-1135
+ "32000","Nevada",8,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-97006,-102869,-105829,-104450,-100975,-106978,-128708,-148772,-202839,-180459,-171622,-172736,-176897,-159801,-154341,-153075,-150958,-154943,-171434,-185738,-197785,-195995,-207100,-404503,-385659
+ "32000","Nevada",8,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-97006,-102869,-105829,-104450,-100975,-106978,-128708,-148772,-202839,-180459,-171622,-172736,-176897,-159801,-154341,-153075,-150958,-154943,-171434,-185738,-197785,-195995,-207100,-384321,-370229
+ "32000","Nevada",8,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20182,-15430
+ "32000","Nevada",8,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-683333,-432825
+ "32000","Nevada",8,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-432553,-267399
+ "32000","Nevada",8,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78211,-38480
+ "32000","Nevada",8,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49502,-31366
+ "32000","Nevada",8,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-304841,-197553
+ "32000","Nevada",8,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14367,-11362
+ "32000","Nevada",8,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-236413,-154064
+ "32000","Nevada",8,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-220654,-146635
+ "32000","Nevada",8,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15758,-7429
+ "32000","Nevada",8,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3385,-27336,-15757,-19537,-18787,-11317,-6839,-2391,-80,-80,-709468,-578783
+ "32000","Nevada",8,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35586,-74402
+ "32000","Nevada",8,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3385,-27336,-15757,-19537,-18787,-11317,-6839,-2391,-80,-80,-673883,-504382
+ "32000","Nevada",8,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-536563,-368235
+ "32000","Nevada",8,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3385,-27336,-15757,-19537,-18787,-11317,-6839,-2391,-80,-80,-74391,-37824
+ "32000","Nevada",8,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33438,-17347
+ "32000","Nevada",8,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29491,-80977
+ "32000","Nevada",8,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-723114,-1462654
+ "32000","Nevada",8,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163843,-381500
+ "32000","Nevada",8,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33663,-285888
+ "32000","Nevada",8,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-130180,-95612
+ "32000","Nevada",8,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-559271,-1081154
+ "32000","Nevada",8,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-189372,-143463
+ "32000","Nevada",8,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-369899,-937691
+ "32000","Nevada",8,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-159125,-293513
+ "32000","Nevada",8,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-55177,-49281,-53079,-53452,-65450,-86947,-89882,-91996,-84071,-66735,-81921,-94218,-105102,-86207,-97721,-78171,-80436,-110205,-114017,-116651,-106085,-124863,-148639,-253076,-262014
+ "32000","Nevada",8,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-93,-52,-45,-51,-100,-793,-1164,-962,-580,-465,-412,-433,-1436,-1142,-1211,-1432,-3114,-5449,-6024,-6431,-5471,-14541,-33108,-49323,-63774
+ "32000","Nevada",8,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "32000","Nevada",8,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-55084,-49228,-53034,-53402,-65350,-86154,-88718,-91034,-83490,-66270,-81509,-93785,-103666,-85065,-96510,-76739,-77322,-104756,-107993,-110221,-100614,-110322,-115531,-203754,-198240
+ "32000","Nevada",8,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-1809,-2275,-2311,-3368,-5225,-9785,-10229,-5573,-10052,-7364,-9188,-11195,-9501,-8274,-8776,-10605,-7732,-32994,-28990,-18080,-7628,-12659,-13965,-103098,-54171
+ "32000","Nevada",8,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-25051,-2656,-26,0,0,0,0,0,0,0,0,-515353,-305109
+ "32000","Nevada",8,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-1768,-1625,-2024,-1920,-130910,-6701,-66847,-3365,-4375,-5376,-4349,-5818,-7290,-9109,-8955,-9537,-8810,-8210,-8812,-10293,-9966,-9828,-10679,-717618,-916002
+ "32000","Nevada",8,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-18,-11,-175,-628,-1511,-4003,-4278,-2867,-1422,-1442,-861,-2111,-4130,-5360,-293287,-253669
+ "32000","Nevada",8,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-1809,-2275,-2311,-3368,-5225,-9785,-10229,-5573,-10052,-7382,-9199,-11370,-9942,-9262,-10533,-11648,-9000,-34030,-30036,-18962,-9691,-16766,-19298,-1011320,-715079
+ "32000","Nevada",8,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-99159,-105022,-108930,-107676,-233521,-115576,-196364,-152992,-208668,-187129,-176124,-179147,-209549,-177572,-196352,-184481,-190483,-197267,-200923,-213523,-214369,-208725,-219068,-4077912,-4473830
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

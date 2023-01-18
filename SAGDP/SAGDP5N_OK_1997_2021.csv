@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "40000","Oklahoma",6,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-312484,-391735,-605487,-529995,-538933,-458617,-511715,-379522,-512839,-442345,-457056,-503213,-534244,-561622,-645378,-654395,-734058,-1218291,-826836,-658722,-632208,-692661,-820152,-6137610,-5974971
+ "40000","Oklahoma",6,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-254098,-342054,-553896,-471543,-467985,-377687,-433270,-305977,-427009,-357695,-348868,-384560,-366617,-430483,-499471,-448504,-488106,-973442,-609374,-444260,-418733,-462836,-579027,-5799970,-5608397
+ "40000","Oklahoma",6,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-174379,-258906,-459620,-378272,-350207,-275017,-307052,-182482,-267428,-207854,-222169,-267773,-195032,-270492,-289440,-243476,-288966,-774235,-423116,-256662,-237591,-287897,-401085,-1069858,-793157
+ "40000","Oklahoma",6,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-174379,-258906,-459620,-378272,-350207,-275017,-307052,-182482,-267428,-207854,-222169,-267773,-195032,-270492,-289440,-243476,-288966,-774235,-423116,-256662,-237591,-287897,-401085,-1060095,-779332
+ "40000","Oklahoma",6,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9763,-13825
+ "40000","Oklahoma",6,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-277432,-314592
+ "40000","Oklahoma",6,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72589,-107301
+ "40000","Oklahoma",6,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8542,-3694
+ "40000","Oklahoma",6,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-196302,-203597
+ "40000","Oklahoma",6,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-43392,-21269
+ "40000","Oklahoma",6,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-485402,-589837
+ "40000","Oklahoma",6,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-15,-7,-753,-2698,-7448,-7126,-10937,-2157,-4307,-1698,-1712,-1146,-2051,-1806,-599276,-544156
+ "40000","Oklahoma",6,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-744,-2080,-5646,-5901,-5186,-1451,-1868,-1566,-1590,-1049,-1961,-1720,-471931,-453409
+ "40000","Oklahoma",6,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12676,-8921
+ "40000","Oklahoma",6,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19925,-9820
+ "40000","Oklahoma",6,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29702,-22331
+ "40000","Oklahoma",6,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-156021,-182925
+ "40000","Oklahoma",6,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-141498,-105268
+ "40000","Oklahoma",6,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7734,-25444
+ "40000","Oklahoma",6,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-744,-2080,-5646,-5901,-5186,-1451,-1868,-1566,-1590,-1049,-1961,-1720,-24537,-6046
+ "40000","Oklahoma",6,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17791,-19975
+ "40000","Oklahoma",6,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25341,-25809
+ "40000","Oklahoma",6,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5523,-11209
+ "40000","Oklahoma",6,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31182,-35660
+ "40000","Oklahoma",6,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-15,-7,-8,-617,-1802,-1225,-5751,-706,-2439,-132,-122,-98,-90,-86,-127346,-90748
+ "40000","Oklahoma",6,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33673,-17882
+ "40000","Oklahoma",6,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-15,-7,-8,-12,-9,-9,-11,-11,-13,-80,-83,-68,-55,-57,-21386,-11094
+ "40000","Oklahoma",6,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1686,-4619
+ "40000","Oklahoma",6,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-857,-525
+ "40000","Oklahoma",6,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8329,-24945
+ "40000","Oklahoma",6,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-568,-1753,-775,-5599,-531,-2250,0,0,0,0,0,-4670,-5295
+ "40000","Oklahoma",6,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-38,-40,-441,-141,-164,-176,-51,-39,-30,-35,-28,-44611,-22398
+ "40000","Oklahoma",6,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12134,-3990
+ "40000","Oklahoma",6,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-226585,-145150
+ "40000","Oklahoma",6,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-33341,-3614,-35,0,0,0,0,0,0,0,0,-389422,-239823
+ "40000","Oklahoma",6,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-90,4,-700,-1782,-23678,-2613,-12610,-2271,-3081,-3470,-2825,-3658,-4310,-5381,-4414,-4387,-4193,-3788,-3833,-3005,-3634,-3887,-3349,-198690,-171456
+ "40000","Oklahoma",6,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-89,4,0,-4,-22318,-710,-11164,-75,-271,-413,-417,-626,-759,-910,-1048,-1150,-1039,-972,-1065,-374,-501,-481,-551,-58524,-62070
+ "40000","Oklahoma",6,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",0,0,-700,-1777,-1359,-1878,-1410,-1957,-2577,-2389,-2198,-2837,-3463,-4471,-3367,-3237,-3154,-2816,-2768,-2631,-3133,-3406,-2797,-5550,-8131
+ "40000","Oklahoma",6,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-2,0,0,0,0,-25,0,0,0,0,-33,0,0,0,0,0,0,0,0,0,0,0,0,-88,-66
+ "40000","Oklahoma",6,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-36,-239,-233,-669,-177,-196,-88,0,0,0,0,0,0,0,0,0,0,-106069,-76624
+ "40000","Oklahoma",6,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1721,-4761
+ "40000","Oklahoma",6,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1632,-1032
+ "40000","Oklahoma",6,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22104,-15091
+ "40000","Oklahoma",6,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3003,-3681
+ "40000","Oklahoma",6,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-360,-969,-4325,-5855,-3007,-746,-749,40,-91,-41,-50,-42603,-39434
+ "40000","Oklahoma",6,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5624,-8986
+ "40000","Oklahoma",6,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2693,-4079
+ "40000","Oklahoma",6,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-360,-969,-4325,-5855,-3007,-746,-749,40,-91,-41,-50,-23681,-18537
+ "40000","Oklahoma",6,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10605,-7833
+ "40000","Oklahoma",6,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-79629,-83152,-93576,-91490,-94100,-100057,-113608,-121224,-156499,-146356,-123867,-112376,-130876,-136828,-146822,-155009,-154774,-158448,-161537,-172752,-172782,-168849,-172625,-462764,-357676
+ "40000","Oklahoma",6,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-356,-400,-614,-626,-814,-915,-388,-311,-447,-263,-383,-630,-1228,-3654,-4687,-5935,-4432,-6058,-3907,-4193,-4035,-3495,-3111,-134228,-45201
+ "40000","Oklahoma",6,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-356,-400,-614,-626,-814,-915,-388,-311,-447,-263,-383,-630,-1228,-3654,-4687,-5935,-4432,-6058,-3907,-4193,-4035,-3495,-3111,-24294,-18590
+ "40000","Oklahoma",6,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22971,-4969
+ "40000","Oklahoma",6,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85131,-21007
+ "40000","Oklahoma",6,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1833,-635
+ "40000","Oklahoma",6,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-79273,-82753,-92962,-90864,-93286,-99142,-113219,-120913,-156052,-146093,-123485,-111746,-129648,-133173,-142136,-149074,-150342,-152389,-157630,-168560,-168747,-165354,-169513,-328536,-312475
+ "40000","Oklahoma",6,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-79273,-82753,-92962,-90864,-93286,-99142,-113219,-120913,-156052,-146093,-123485,-111746,-129648,-133173,-142136,-149074,-150342,-152389,-157630,-168560,-168747,-165354,-169513,-311924,-289445
+ "40000","Oklahoma",6,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16612,-23030
+ "40000","Oklahoma",6,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-653151,-435930
+ "40000","Oklahoma",6,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-437580,-299134
+ "40000","Oklahoma",6,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110100,-49629
+ "40000","Oklahoma",6,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49200,-40721
+ "40000","Oklahoma",6,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-278280,-208783
+ "40000","Oklahoma",6,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17977,-19979
+ "40000","Oklahoma",6,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-197594,-116817
+ "40000","Oklahoma",6,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182968,-109431
+ "40000","Oklahoma",6,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14626,-7386
+ "40000","Oklahoma",6,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-5752,-47309,-28839,-35009,-31919,-18440,-10169,-3488,-112,-113,-828231,-842946
+ "40000","Oklahoma",6,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22143,-31405
+ "40000","Oklahoma",6,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-5752,-47309,-28839,-35009,-31919,-18440,-10169,-3488,-112,-113,-806087,-811541
+ "40000","Oklahoma",6,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-547002,-445829
+ "40000","Oklahoma",6,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-5752,-47309,-28839,-35009,-31919,-18440,-10169,-3488,-112,-113,-126733,-213034
+ "40000","Oklahoma",6,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89381,-56432
+ "40000","Oklahoma",6,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42971,-96245
+ "40000","Oklahoma",6,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-362123,-937391
+ "40000","Oklahoma",6,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54010,-113107
+ "40000","Oklahoma",6,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14554,-78684
+ "40000","Oklahoma",6,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39456,-34424
+ "40000","Oklahoma",6,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-308113,-824284
+ "40000","Oklahoma",6,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-53249,-78502
+ "40000","Oklahoma",6,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-254864,-745782
+ "40000","Oklahoma",6,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-161040,-175578
+ "40000","Oklahoma",6,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-58385,-49681,-51591,-58452,-70949,-80931,-78445,-73544,-85830,-84649,-108188,-118653,-167627,-131138,-145906,-205892,-245952,-244849,-217462,-214462,-213475,-229824,-241125,-337640,-366574
+ "40000","Oklahoma",6,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-16494,-13511,-16363,-19918,-29694,-30748,-31885,-31094,-36263,-33882,-42583,-60543,-103582,-58177,-78627,-116641,-158275,-148552,-127661,-118724,-116404,-125036,-120663,-118304,-152966
+ "40000","Oklahoma",6,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "40000","Oklahoma",6,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-41891,-36170,-35228,-38534,-41255,-50182,-46561,-42451,-49567,-50768,-65605,-58110,-64045,-72961,-67279,-89250,-87678,-96297,-89800,-95737,-97071,-104789,-120462,-219336,-213608
+ "40000","Oklahoma",6,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-174379,-258906,-459620,-378272,-350207,-275017,-307052,-182482,-267428,-207854,-222169,-267773,-195032,-270492,-289440,-243476,-288966,-774235,-423116,-256662,-237591,-287897,-401085,-1347290,-1107749
+ "40000","Oklahoma",6,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-33341,-3614,-35,0,0,0,0,0,0,0,0,-616007,-384974
+ "40000","Oklahoma",6,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-90,4,-700,-1782,-23678,-2613,-12610,-2271,-3081,-3470,-2825,-3658,-4310,-5381,-4414,-4387,-4193,-3788,-3833,-3005,-3634,-3887,-3349,-242082,-192725
+ "40000","Oklahoma",6,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-15,-7,-753,-3058,-8417,-11451,-16792,-5163,-5053,-2448,-1672,-1238,-2092,-1856,-641879,-583591
+ "40000","Oklahoma",6,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-174379,-258906,-459620,-378272,-350207,-275017,-307052,-182482,-267428,-207869,-222176,-268526,-197730,-277940,-296566,-254413,-291123,-778541,-424814,-258374,-238738,-289948,-402891,-2431968,-2241742
+ "40000","Oklahoma",6,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-79720,-83148,-94276,-93271,-117778,-102670,-126218,-123495,-159580,-149826,-126693,-116034,-168887,-152543,-202905,-194091,-196983,-194901,-184560,-185886,-179995,-172889,-176136,-3368002,-3366655
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

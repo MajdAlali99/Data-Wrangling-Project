@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "29000","Missouri",4,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-609347,-717621,-984536,-1108458,-1261789,-794384,-984557,-890262,-1197167,-982125,-883884,-1039108,-1123648,-1026900,-1144936,-1107900,-1207766,-1245188,-963793,-1171199,-1158554,-1321236,-1848057,-10332600,-8852046
+ "29000","Missouri",4,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-430709,-566126,-834090,-963464,-1094205,-596076,-767965,-650556,-957743,-737426,-613379,-715571,-776040,-728490,-775990,-747717,-758740,-779276,-533089,-731021,-708386,-855844,-1365193,-9648874,-8096162
+ "29000","Missouri",4,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-235802,-364037,-619226,-749741,-736840,-363729,-448101,-376661,-610522,-435888,-341063,-453893,-407411,-369645,-310901,-326135,-347074,-389848,-165693,-364316,-347768,-500830,-1007567,-1458411,-1039859
+ "29000","Missouri",4,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-235802,-364037,-619226,-749741,-736840,-363729,-448101,-376661,-610522,-435888,-341063,-453893,-407411,-369645,-310901,-326135,-347074,-389848,-165693,-364316,-347768,-500830,-1007567,-1447774,-1017598
+ "29000","Missouri",4,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10637,-22260
+ "29000","Missouri",4,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11569,-8426
+ "29000","Missouri",4,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-236,-420
+ "29000","Missouri",4,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7352,-5080
+ "29000","Missouri",4,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3981,-2926
+ "29000","Missouri",4,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24772,-14278
+ "29000","Missouri",4,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1060051,-848203
+ "29000","Missouri",4,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-74,-39,-3654,-10989,-34710,-42290,-29273,-14166,-9828,-8660,-8113,-7653,-7656,-8450,-983861,-674853
+ "29000","Missouri",4,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3603,-10551,-33870,-40108,-27764,-12951,-8377,-8196,-7683,-7200,-7186,-8079,-684779,-479779
+ "29000","Missouri",4,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34725,-23006
+ "29000","Missouri",4,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34620,-22868
+ "29000","Missouri",4,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62969,-27903
+ "29000","Missouri",4,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-165900,-136776
+ "29000","Missouri",4,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-181099,-66012
+ "29000","Missouri",4,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31230,-28633
+ "29000","Missouri",4,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3603,-10551,-33870,-40108,-27764,-12951,-8377,-8196,-7683,-7200,-7186,-8079,-30397,-22211
+ "29000","Missouri",4,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28979,-22150
+ "29000","Missouri",4,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34172,-29544
+ "29000","Missouri",4,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29574,-35466
+ "29000","Missouri",4,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51116,-65209
+ "29000","Missouri",4,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-74,-39,-50,-438,-840,-2182,-1510,-1214,-1451,-464,-430,-453,-470,-371,-299082,-195075
+ "29000","Missouri",4,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78304,-53179
+ "29000","Missouri",4,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-74,-39,-50,-66,-56,-42,-40,-29,-37,-207,-201,-202,-244,-232,-2563,-5408
+ "29000","Missouri",4,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29879,-25726
+ "29000","Missouri",4,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11126,-1772
+ "29000","Missouri",4,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40894,-42284
+ "29000","Missouri",4,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-103,-469,-104,-517,-92,-418,0,0,0,0,0,-37514,-16689
+ "29000","Missouri",4,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-269,-315,-2036,-953,-1094,-997,-256,-229,-251,-226,-139,-28569,-30225
+ "29000","Missouri",4,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-70234,-19790
+ "29000","Missouri",4,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-535805,-211916
+ "29000","Missouri",4,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-57768,-6234,-60,0,0,0,0,0,0,0,0,-611095,-429996
+ "29000","Missouri",4,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-12874,-10082,-11180,-11723,-150906,-19824,-83484,-21440,-22110,-25791,-21956,-26891,-36917,-41682,-33696,-36044,-34039,-31732,-32789,-29147,-34092,-37775,-31579,-615228,-521868
+ "29000","Missouri",4,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-554,28,0,-28,-139382,-4435,-69719,-471,-1691,-2578,-2606,-3909,-4740,-5683,-6542,-7180,-6487,-6071,-6653,-2349,-2780,-2621,-3132,-247384,-291080
+ "29000","Missouri",4,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",-11514,-9818,-11047,-11416,-10510,-13293,-12378,-13816,-15821,-14532,-13782,-19320,-25858,-34158,-25602,-25654,-26639,-25237,-25862,-25994,-31117,-35061,-28379,-46872,-58221
+ "29000","Missouri",4,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-805,-292,-133,-280,-1013,-2096,-1280,-6419,-3908,-6833,-5101,-3166,-6103,-1841,-1552,-3211,-913,-424,-274,-805,-194,-93,-68,-414,-2524
+ "29000","Missouri",4,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-107,-734,-689,-1848,-467,-497,-216,0,0,0,0,0,0,0,0,0,0,-250048,-103956
+ "29000","Missouri",4,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12731,-29654
+ "29000","Missouri",4,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144,-356
+ "29000","Missouri",4,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42804,-32761
+ "29000","Missouri",4,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14830,-3317
+ "29000","Missouri",4,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-807,-2209,-9180,-14092,-7077,-1641,-1710,88,-178,-79,-95,-126715,-67677
+ "29000","Missouri",4,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40510,-22754
+ "29000","Missouri",4,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13414,-8863
+ "29000","Missouri",4,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-807,-2209,-9180,-14092,-7077,-1641,-1710,88,-178,-79,-95,-37638,-18117
+ "29000","Missouri",4,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35153,-17942
+ "29000","Missouri",4,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-182032,-192007,-203683,-202001,-206459,-212523,-236379,-252456,-325112,-275672,-250321,-231133,-262148,-259606,-266639,-274697,-274780,-273448,-281118,-304308,-309839,-309223,-317217,-773412,-637129
+ "29000","Missouri",4,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-793,-1089,-1798,-1725,-1750,-1647,-682,-524,-760,-497,-657,-865,-2238,-6255,-6931,-6780,-3931,-5530,-4368,-5363,-5910,-6941,-5963,-188509,-87147
+ "29000","Missouri",4,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-793,-1089,-1798,-1725,-1750,-1647,-682,-524,-760,-497,-657,-865,-2238,-6255,-6931,-6780,-3931,-5530,-4368,-5363,-5910,-6941,-5963,-46064,-30851
+ "29000","Missouri",4,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40662,-14079
+ "29000","Missouri",4,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-99355,-41102
+ "29000","Missouri",4,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2428,-1114
+ "29000","Missouri",4,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-181239,-190918,-201885,-200275,-204708,-210876,-235697,-251931,-324352,-275176,-249664,-230268,-259910,-253351,-259709,-267917,-270849,-267918,-276750,-298945,-303930,-302282,-311254,-584903,-549983
+ "29000","Missouri",4,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-181239,-190918,-201885,-200275,-204708,-210876,-235697,-251931,-324352,-275176,-249664,-230268,-259910,-253351,-259709,-267917,-270849,-267918,-276750,-298945,-303930,-302282,-311254,-568790,-529405
+ "29000","Missouri",4,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16113,-20578
+ "29000","Missouri",4,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1101003,-648802
+ "29000","Missouri",4,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-774844,-451726
+ "29000","Missouri",4,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-167950,-99790
+ "29000","Missouri",4,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-120483,-65163
+ "29000","Missouri",4,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-486411,-286774
+ "29000","Missouri",4,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18753,-15122
+ "29000","Missouri",4,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-307406,-181953
+ "29000","Missouri",4,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-281479,-167273
+ "29000","Missouri",4,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25927,-14680
+ "29000","Missouri",4,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14405,-113223,-67475,-81604,-72779,-43118,-25225,-8856,-281,-285,-1407771,-1052812
+ "29000","Missouri",4,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67507,-77564
+ "29000","Missouri",4,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14405,-113223,-67475,-81604,-72779,-43118,-25225,-8856,-281,-285,-1340264,-975248
+ "29000","Missouri",4,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-797088,-591635
+ "29000","Missouri",4,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14405,-113223,-67475,-81604,-72779,-43118,-25225,-8856,-281,-285,-280925,-97194
+ "29000","Missouri",4,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-190606,-77104
+ "29000","Missouri",4,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71645,-209315
+ "29000","Missouri",4,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-656395,-1604793
+ "29000","Missouri",4,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-69950,-248727
+ "29000","Missouri",4,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34369,-199994
+ "29000","Missouri",4,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35581,-48732
+ "29000","Missouri",4,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-586445,-1356066
+ "29000","Missouri",4,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-106917,-184035
+ "29000","Missouri",4,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-479529,-1172032
+ "29000","Missouri",4,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-282785,-335552
+ "29000","Missouri",4,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-178639,-151494,-150446,-144994,-167584,-198308,-216592,-239706,-239423,-244699,-270505,-323537,-347609,-298410,-368946,-360182,-449026,-465912,-430704,-440178,-450168,-465392,-482864,-683726,-755884
+ "29000","Missouri",4,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-29527,-31056,-31584,-39326,-49525,-50905,-55009,-65223,-68684,-70011,-91680,-141578,-158870,-115555,-164349,-177545,-267388,-285058,-245325,-238226,-251017,-253692,-265542,-283228,-366212
+ "29000","Missouri",4,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "29000","Missouri",4,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-149112,-120438,-118863,-105669,-118059,-147403,-161583,-174483,-170739,-174688,-178825,-181959,-188739,-182854,-204597,-182637,-181638,-180854,-185380,-201952,-199151,-211700,-217322,-400498,-389672
+ "29000","Missouri",4,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-235802,-364037,-619226,-749741,-736840,-363729,-448101,-376661,-610522,-435888,-341063,-453893,-407411,-369645,-310901,-326135,-347074,-389848,-165693,-364316,-347768,-500830,-1007567,-1469980,-1048285
+ "29000","Missouri",4,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-57768,-6234,-60,0,0,0,0,0,0,0,0,-1146900,-641911
+ "29000","Missouri",4,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-12874,-10082,-11180,-11723,-150906,-19824,-83484,-21440,-22110,-25791,-21956,-26891,-36917,-41682,-33696,-36044,-34039,-31732,-32789,-29147,-34092,-37775,-31579,-639999,-536146
+ "29000","Missouri",4,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-74,-39,-3654,-11796,-36919,-51471,-43366,-21242,-11469,-10370,-8025,-7831,-7735,-8545,-1110576,-742530
+ "29000","Missouri",4,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-235802,-364037,-619226,-749741,-736840,-363729,-448101,-376661,-610522,-435962,-341102,-457547,-418399,-404355,-353191,-355409,-361240,-399676,-174353,-372429,-355421,-508485,-1016018,-3513892,-2571341
+ "29000","Missouri",4,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-194907,-202089,-214863,-213724,-357364,-232347,-319864,-273896,-347222,-301464,-272277,-258024,-357640,-324136,-422798,-392308,-397500,-379600,-358735,-358593,-352965,-347359,-349176,-6134982,-5524821
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"

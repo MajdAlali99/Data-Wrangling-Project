@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+ "22000","Louisiana",5,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-385782,-455298,-620011,-661244,-720619,-553082,-724425,-587137,-692145,-677779,-6476940,-3561633,-1633073,-1328884,-1015647,-810908,-765564,-645451,-618831,-732490,-684849,-669262,-792758,-8936552,-8848207
+ "22000","Louisiana",5,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-259832,-346611,-506069,-545667,-597751,-413081,-581376,-441081,-534867,-521009,-5818467,-2612002,-1095512,-934366,-684894,-523714,-462969,-391321,-392737,-508882,-484409,-478380,-597617,-8631088,-8529364
+ "22000","Louisiana",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-133448,-219886,-363222,-404839,-422831,-254609,-390218,-226069,-290432,-291309,-255132,-185189,-210585,-177975,-177713,-180478,-174288,-103630,-139109,-246859,-241071,-243501,-362610,-589225,-396030
+ "22000","Louisiana",5,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-133448,-219886,-363222,-404839,-422831,-254609,-390218,-226069,-290432,-291309,-255132,-185189,-210585,-177975,-177713,-180478,-174288,-103630,-139109,-246859,-241071,-243501,-362610,-565395,-358926
+ "22000","Louisiana",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23830,-37104
+ "22000","Louisiana",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-499304,-369538
+ "22000","Louisiana",5,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41112,-35098
+ "22000","Louisiana",5,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13597,-12451
+ "22000","Louisiana",5,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-444594,-321990
+ "22000","Louisiana",5,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46080,-16978
+ "22000","Louisiana",5,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-893466,-960650
+ "22000","Louisiana",5,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-26,-14,-272,-4818,-28656,-18009,-38181,-8251,-23952,-1529,-1544,-1453,-1467,-1312,-711150,-740889
+ "22000","Louisiana",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-254,-789,-2502,-3484,-2506,-1293,-1009,-763,-689,-694,-607,-665,-542695,-568544
+ "22000","Louisiana",5,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30457,-17738
+ "22000","Louisiana",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27609,-28755
+ "22000","Louisiana",5,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18500,-20190
+ "22000","Louisiana",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-184873,-185899
+ "22000","Louisiana",5,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142742,-153142
+ "22000","Louisiana",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23685,-18974
+ "22000","Louisiana",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-254,-789,-2502,-3484,-2506,-1293,-1009,-763,-689,-694,-607,-665,-6926,-8350
+ "22000","Louisiana",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3430,-7771
+ "22000","Louisiana",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64334,-72850
+ "22000","Louisiana",5,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8819,-10129
+ "22000","Louisiana",5,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31321,-44747
+ "22000","Louisiana",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-26,-14,-18,-4028,-26154,-14525,-35676,-6958,-22943,-766,-855,-759,-860,-647,-168454,-172345
+ "22000","Louisiana",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58061,-68994
+ "22000","Louisiana",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-26,-14,-18,-22,-18,-20,-26,-28,-22,-138,-140,-133,-153,-138,-6179,-11280
+ "22000","Louisiana",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2101,-13342
+ "22000","Louisiana",5,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13415,-1505
+ "22000","Louisiana",5,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14333,-28403
+ "22000","Louisiana",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3383,-25295,-6448,-33065,-4795,-20782,0,0,0,0,0,-14417,-1995
+ "22000","Louisiana",5,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-623,-841,-8057,-2585,-2136,-2139,-628,-715,-626,-708,-510,-44283,-31110
+ "22000","Louisiana",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15665,-15716
+ "22000","Louisiana",5,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-389940,-267187
+ "22000","Louisiana",5,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-42076,-4449,-42,0,0,0,0,0,0,0,0,-590041,-270255
+ "22000","Louisiana",5,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-11100,-6139,-5682,-7304,-52307,-30786,-43104,-56735,-39486,-58706,-47217,-35439,-55522,-33625,-34212,-63176,-27048,-17972,-14043,-21351,-13798,-13672,-10391,-517088,-425135
+ "22000","Louisiana",5,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-155,8,0,-8,-38853,-1236,-19434,-131,-471,-719,-726,-1090,-1321,-1584,-1824,-2001,-1808,-1692,-1855,-1203,-1300,-1241,-1463,-137392,-95416
+ "22000","Louisiana",5,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",-5754,-4104,-4581,-4800,-4074,-5304,-5279,-5770,-5722,-4482,-4485,-6086,-8367,-12022,-9246,-8968,-8902,-8100,-8015,-7878,-8939,-10474,-7551,-33277,-38102
+ "22000","Louisiana",5,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-5192,-2043,-1101,-2497,-9380,-24246,-18357,-50606,-33080,-52924,-41855,-28095,-45762,-20019,-23142,-52207,-16338,-8180,-4173,-12269,-3559,-1958,-1377,-104249,-85889
+ "22000","Louisiana",5,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-35,-228,-212,-581,-150,-169,-72,0,0,0,0,0,0,0,0,0,0,-110763,-103681
+ "22000","Louisiana",5,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13816,-31421
+ "22000","Louisiana",5,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2154,-1744
+ "22000","Louisiana",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-96967,-60530
+ "22000","Louisiana",5,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18469,-8353
+ "22000","Louisiana",5,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-308,-873,-3690,-5522,-2874,-705,-703,36,-82,-36,-42,-48988,-103412
+ "22000","Louisiana",5,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15312,-16059
+ "22000","Louisiana",5,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9360,-72241
+ "22000","Louisiana",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-308,-873,-3690,-5522,-2874,-705,-703,36,-82,-36,-42,-15629,-9370
+ "22000","Louisiana",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8686,-5742
+ "22000","Louisiana",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-115284,-120586,-137164,-133523,-122613,-127687,-148054,-158277,-204950,-170968,-5516103,-2391101,-782202,-681364,-391568,-201810,-206949,-201903,-211529,-224048,-222994,-219549,-223104,-655177,-509198
+ "22000","Louisiana",5,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-483,-560,-912,-913,-958,-993,-402,-344,-473,-314,-513,-775,-1634,-3349,-3977,-5062,-3816,-5102,-3659,-3550,-3489,-3198,-2650,-173786,-65497
+ "22000","Louisiana",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-483,-560,-912,-913,-958,-993,-402,-344,-473,-314,-513,-775,-1634,-3349,-3977,-5062,-3816,-5102,-3659,-3550,-3489,-3198,-2650,-39168,-16387
+ "22000","Louisiana",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27469,-7984
+ "22000","Louisiana",5,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-104425,-40100
+ "22000","Louisiana",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2725,-1025
+ "22000","Louisiana",5,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-114801,-120027,-136252,-132610,-121655,-126694,-147652,-157932,-204477,-170654,-5515590,-2390325,-780568,-678015,-387592,-196748,-203133,-196801,-207871,-220498,-219505,-216352,-220453,-481391,-443701
+ "22000","Louisiana",5,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-114801,-120027,-136252,-132610,-121655,-126694,-147652,-157932,-204477,-170654,-5515590,-2390325,-780568,-678015,-387592,-196748,-203133,-196801,-207871,-220498,-219505,-216352,-220453,-421149,-373113
+ "22000","Louisiana",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60242,-70588
+ "22000","Louisiana",5,SAGDP5N,59,"54, 55, 56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1256062,-840723
+ "22000","Louisiana",5,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-880381,-574513
+ "22000","Louisiana",5,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-272018,-152041
+ "22000","Louisiana",5,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50101,-50406
+ "22000","Louisiana",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-558262,-372065
+ "22000","Louisiana",5,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20299,-15444
+ "22000","Louisiana",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-355382,-250766
+ "22000","Louisiana",5,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-300717,-229087
+ "22000","Louisiana",5,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54666,-21679
+ "22000","Louisiana",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7424,-59658,-34545,-43559,-43159,-25824,-15117,-5011,-155,-158,-1442040,-1626305
+ "22000","Louisiana",5,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-84162,-73910
+ "22000","Louisiana",5,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7424,-59658,-34545,-43559,-43159,-25824,-15117,-5011,-155,-158,-1357879,-1552396
+ "22000","Louisiana",5,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-968091,-861322
+ "22000","Louisiana",5,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7424,-59658,-34545,-43559,-43159,-25824,-15117,-5011,-155,-158,-215478,-471806
+ "22000","Louisiana",5,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113819,-47025
+ "22000","Louisiana",5,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60491,-172242
+ "22000","Louisiana",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-716716,-1486987
+ "22000","Louisiana",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58706,-211769
+ "22000","Louisiana",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23665,-162506
+ "22000","Louisiana",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35041,-49263
+ "22000","Louisiana",5,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-658010,-1275218
+ "22000","Louisiana",5,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-99801,-140497
+ "22000","Louisiana",5,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-558209,-1134721
+ "22000","Louisiana",5,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-275810,-516077
+ "22000","Louisiana",5,SAGDP5N,83,"..."," Government and government enterprises ","Thousands of dollars",-125950,-108687,-113942,-115577,-122868,-140001,-143049,-146055,-157277,-156770,-658473,-949631,-537561,-394518,-330753,-287194,-302595,-254130,-226094,-223607,-200440,-190882,-195142,-305463,-318843
+ "22000","Louisiana",5,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-23079,-23166,-22998,-22378,-25064,-23661,-22266,-21906,-23134,-22888,-27923,-34791,-48848,-39790,-47096,-51836,-71679,-70186,-52431,-54266,-59617,-57617,-58095,-67839,-87715
+ "22000","Louisiana",5,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "22000","Louisiana",5,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-102871,-85521,-90944,-93199,-97804,-116341,-120783,-124150,-134143,-133882,-630550,-914840,-488713,-354727,-283658,-235358,-230916,-183945,-173663,-169341,-140823,-133265,-137047,-237625,-231128
+ "22000","Louisiana",5,SAGDP5N,87,"11, 21","Natural resources and mining ","Thousands of dollars",-133448,-219886,-363222,-404839,-422831,-254609,-390218,-226069,-290432,-291309,-255132,-185189,-210585,-177975,-177713,-180478,-174288,-103630,-139109,-246859,-241071,-243501,-362610,-1088529,-765568
+ "22000","Louisiana",5,SAGDP5N,88,"42, 44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-42076,-4449,-42,0,0,0,0,0,0,0,0,-979982,-537442
+ "22000","Louisiana",5,SAGDP5N,89,"22, 48-49","Transportation and utilities ","Thousands of dollars",-11100,-6139,-5682,-7304,-52307,-30786,-43104,-56735,-39486,-58706,-47217,-35439,-55522,-33625,-34212,-63176,-27048,-17972,-14043,-21351,-13798,-13672,-10391,-563169,-442113
+ "22000","Louisiana",5,SAGDP5N,90,"31-33, 51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-26,-14,-272,-5126,-29529,-21699,-43704,-11125,-24657,-2232,-1508,-1535,-1504,-1354,-760137,-844301
+ "22000","Louisiana",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-133448,-219886,-363222,-404839,-422831,-254609,-390218,-226069,-290432,-291334,-255146,-185462,-215403,-206631,-195722,-218659,-182539,-127582,-140638,-248403,-242524,-244968,-363923,-2693145,-2467107
+ "22000","Louisiana",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-126384,-126725,-142847,-140828,-174920,-158472,-191158,-215012,-244436,-229674,-5563320,-2426540,-880109,-727735,-489171,-305054,-280430,-263739,-252099,-260479,-241885,-233412,-233694,-5937944,-6062257
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: September 30, 2022-- new statistics for 2021; revised statistics for 2017-2020."
+"U.S. Bureau of Economic Analysis"
